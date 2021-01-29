@@ -1,0 +1,10 @@
+D:\Projet c#\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.csprojAssemblyReference.cache
+D:\Projet c#\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.Properties.Resources.resources
+D:\Projet c#\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.csproj.GenerateResource.cache
+D:\Projet c#\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.csproj.CoreCompileInputs.cache
+D:\Projet c#\SpaceInvader\SpaceInvader\bin\Debug\SpaceInvader.exe.config
+D:\Projet c#\SpaceInvader\SpaceInvader\bin\Debug\SpaceInvader.exe
+D:\Projet c#\SpaceInvader\SpaceInvader\bin\Debug\SpaceInvader.pdb
+D:\Projet c#\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.exe
+D:\Projet c#\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.pdb
+D:\Projet c#\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.MainForm.resources
